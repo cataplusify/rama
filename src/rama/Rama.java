@@ -25,5 +25,8 @@ public class Rama {
     public void rama2() {
         System.out.println("SEGUNDA RAMA");
     }
+        public void rama3() {
+        System.out.println("TERCERA RAMA");
+    }
     
 }
